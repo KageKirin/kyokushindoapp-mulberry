@@ -1,0 +1,3 @@
+[submodule "apps/kyokushindo"]
+	path = apps/kyokushindo
+	url = https://github.com/KageKirin/kyokushindoapp-assets.git
